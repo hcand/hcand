@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hcand&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hcand&langs_count=3&hide=javascript,go,html,css,tex)
+
